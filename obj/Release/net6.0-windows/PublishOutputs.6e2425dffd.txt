@@ -1,0 +1,11 @@
+C:\Users\Ozan\Documents\GitHub\yahoooooo\yaho2\bin\Release\net6.0-windows\publish\yaho2.exe
+C:\Users\Ozan\Documents\GitHub\yahoooooo\yaho2\bin\Release\net6.0-windows\publish\yaho2.dll
+C:\Users\Ozan\Documents\GitHub\yahoooooo\yaho2\bin\Release\net6.0-windows\publish\yaho2.deps.json
+C:\Users\Ozan\Documents\GitHub\yahoooooo\yaho2\bin\Release\net6.0-windows\publish\yaho2.runtimeconfig.json
+C:\Users\Ozan\Documents\GitHub\yahoooooo\yaho2\bin\Release\net6.0-windows\publish\yaho2.pdb
+C:\Users\Ozan\Documents\GitHub\yahoooooo\yaho2\bin\Release\net6.0-windows\publish\System.Data.SqlClient.dll
+C:\Users\Ozan\Documents\GitHub\yahoooooo\yaho2\bin\Release\net6.0-windows\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\Ozan\Documents\GitHub\yahoooooo\yaho2\bin\Release\net6.0-windows\publish\runtimes\win-x64\native\sni.dll
+C:\Users\Ozan\Documents\GitHub\yahoooooo\yaho2\bin\Release\net6.0-windows\publish\runtimes\win-x86\native\sni.dll
+C:\Users\Ozan\Documents\GitHub\yahoooooo\yaho2\bin\Release\net6.0-windows\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ozan\Documents\GitHub\yahoooooo\yaho2\bin\Release\net6.0-windows\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

@@ -1,0 +1,5 @@
+C:\Users\Ozan\Documents\GitHub\yahoooooo\yaho2\bin\Release\net6.0-windows\app.publish\yaho2.exe
+C:\Users\Ozan\Documents\GitHub\yahoooooo\yaho2\bin\Release\net6.0-windows\app.publish\yaho2.dll
+C:\Users\Ozan\Documents\GitHub\yahoooooo\yaho2\bin\Release\net6.0-windows\app.publish\yaho2.deps.json
+C:\Users\Ozan\Documents\GitHub\yahoooooo\yaho2\bin\Release\net6.0-windows\app.publish\yaho2.runtimeconfig.json
+C:\Users\Ozan\Documents\GitHub\yahoooooo\yaho2\bin\Release\net6.0-windows\app.publish\yaho2.pdb
